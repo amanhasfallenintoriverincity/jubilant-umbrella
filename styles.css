@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+#main{
+    width: 600px;
+    border: 1px solid grey;
+}
+#main-contents{
+    display: flex;
+    gap: 20px;
+    margin: 10px;
+    text-align: start;
+}
